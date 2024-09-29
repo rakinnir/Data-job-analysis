@@ -62,7 +62,7 @@ if analysis_option == 'Job count analysis':
                 title=None,
                 axis=alt.Axis(labelFontSize=18, grid=False, labelLimit=500)),
         x=alt.X('Number of jobs:Q',
-                title='Number of jobs',
+                title=None,
                 axis=alt.Axis(labelFontSize=18, grid=False, labelLimit=500)),
         color=alt.Color('Number of jobs:Q', scale=alt.Scale(
             scheme='blues'), legend=None),  # Color based on count
