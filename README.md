@@ -6,7 +6,7 @@ In this project, I analyzed a job dataset using Python and several powerful data
 ### Key Analysis:
 - **Job Title Trends**: Identified the most popular job titles over time.
 - **Monthly Hiring Trends**: Tracked the fluctuations in hiring activity throughout the year.
-- **Salary Trends**: Explored salary distributions across different roles, locations, and experience levels.
+- **Salary Trends**: Explored salary distributions across different roles, locations.
 - **Top Countries and Companies**: Highlighted the leading countries and companies in terms of job availability.
 - **Job Mediums**: Analyzed the most common platforms or mediums used for job postings.
 
