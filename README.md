@@ -14,6 +14,8 @@ In this project, I analyzed a job dataset using Python and several powerful data
 The analysis was deployed in an interactive web form using **Streamlit**, allowing users to dynamically explore the insights.
 
 Explore the project to gain valuable insights into job market trends!
+<a href="https://data-job-analysis-qd7ylwtpg74mchfed3lnfu.streamlit.app/" target="_blank">Click here</a>
+
 -[Live link](https://data-job-analysis-qd7ylwtpg74mchfed3lnfu.streamlit.app/)
 
 
