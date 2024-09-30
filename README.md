@@ -14,8 +14,6 @@ In this project, I analyzed a job dataset using Python and several powerful data
 The analysis was deployed in an interactive web form using **Streamlit**, allowing users to dynamically explore the insights.
 
 Explore the project to gain valuable insights into job market trends!
-<a href="https://data-job-analysis-qd7ylwtpg74mchfed3lnfu.streamlit.app/" target="_blank">Click here</a>
-
 -[Live link](https://data-job-analysis-qd7ylwtpg74mchfed3lnfu.streamlit.app/)
 
 
@@ -23,22 +21,15 @@ Explore the project to gain valuable insights into job market trends!
 ## Data source
 
  - [Dataset](https://huggingface.co/datasets/lukebarousse/data_jobs)
- - [Website](https://data-job-analysis-qd7ylwtpg74mchfed3lnfu.streamlit.app/)
+
 
  
-
 
 ## Authors
 
 - [Nazmul Islam Rakin](https://github.com/rakinnir)
 
 
-
-
-## Features
-
-- Interactive webapp
-- Comprehensive analysis
 
 
 ## FAQ
